@@ -1,0 +1,64 @@
+.col-sm
+{
+	padding:0px;
+	margin:0px;
+}
+.row input
+{
+	width:100%;
+}
+
+h1
+{
+	background-color: #2F60CFFF;
+	color: white;
+	margin:0px;
+}
+.fa-plus
+{
+	float:right;
+	padding:4px;
+}
+
+.fa-trash
+{
+	background-color: red;
+	color: white;
+	border:1px solid red;
+	padding:10px;
+	float: left;
+	clear: left;
+}
+
+.display-none
+{
+	display:none;
+}
+
+.display-inline
+{
+	display:inline;
+}
+
+input
+{
+	padding:0px;
+	line-height: 40px;
+	background-color:#f7f7f7; 
+}
+.done
+ {
+  	text-decoration: line-through;
+ }
+
+ li
+ {
+ 	background-color: #fff;
+ 	height:40px;
+ 	line-height: 40px;
+ 	color:#666;
+ }
+ li:nth-child(2n)
+ {
+ 	background-color: #f7f7f7;
+ }
